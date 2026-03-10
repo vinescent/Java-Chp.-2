@@ -1,6 +1,6 @@
 // Shaurya Jain 
 // SimpleProgram
-// Calculates 5+6
+// Calculates the sum of two numbers and prints the result
 
 public class SimpleProgram { 
   public static void main (String [ ] args) { 
