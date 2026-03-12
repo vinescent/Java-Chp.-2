@@ -1,17 +1,18 @@
 // Shaurya Jain 
 // Wages 
 // This program calculates hourly wages plus overtime.
+
 public class Wages {
   public static void main(String[] args) {
 
     //Variables
-	double regularWages; // The calculated regular wages. 
-    double basePay; // The base pay rate.
-	double regularHours; // The hours worked less overtime.
-    double overtimeWages; // Overtime wages
-	double overtimePay; // Overtime pay rate
-    double overtimeHours; // Overtime hours worked
-    double totalWages; // Total wages
+	double regularWages; 	// The calculated regular wages. 
+    double basePay;		 	// The base pay rate.
+	double regularHours; 	// The hours worked less overtime.
+    double overtimeWages; 	// Overtime wages
+	double overtimePay; 	// Overtime pay rate
+    double overtimeHours; 	// Overtime hours worked
+    double totalWages; 		// Total wages
 
     // Assignments
     basePay = 25;
