@@ -20,7 +20,7 @@ public class Comment3 {
   public static void main(String[] args) {
     
     double payRate; 	// Holds the hourly pay rate
-	double hours; 		// Hours holds the hours worked
+	  double hours; 		// Hours holds the hours worked
     int employeeNumber; // Holds the employee number
 	
     payRate = 15.00; 	// Initializes hourly pay rate
