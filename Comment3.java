@@ -35,7 +35,7 @@ public class Comment3 {
 }
 // Run your program, then Copy/Paste your console output to a multi-line comment.
 /* Console Output:
-Hourly pay:		$15.00
+Hourly pay:		    $15.00
 Hours worked is:	40.0
-Gross pay is:		$600.00
+Gross pay is:		  $600.00
 */
