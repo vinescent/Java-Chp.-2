@@ -27,6 +27,6 @@ r = 2.5
 Area = 19.635
 */
 
-/* Why is the console output different when you use the Math class ?
+/* Why is the console output different when you use the Math class?
 The console output is different when using the Math class because the Math class provides a more precise value of pi (Math.PI) and allows for more accurate calculations.
 */
