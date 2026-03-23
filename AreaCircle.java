@@ -5,14 +5,16 @@
 public class AreaCircle {
   public static void main(String[] args) {
     //variables
-    double pi; double r; double area;
+    //double pi; 
+    double r;
+    double area;
 
     //assignments 
-    pi = 3.1416; 
+    //pi = 3.1416; 
     r = 2.5;
 
     //calculations
-    area = pi * r * r;
+    area = Math.PI * Math.pow(r, 2);
 
     //output 
     System.out.println("r = " + r);
