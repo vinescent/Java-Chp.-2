@@ -4,12 +4,12 @@
 
 public class StringManipulator {
     public static void main(String[] args) {
-        String city = "East Brunswick";
-        System.out.println("Original: "        + city);
-        System.out.println("Uppercase: "       + city.toUpperCase());
-        System.out.println("Lowercase: "       + city.toLowerCase());
-        System.out.println("# of characters: " + city.length());
-        System.out.println("First character: " + city.charAt(0));
+        String city = "East Brunswick".trim();
+        System.out.println("Original:           " + city);
+        System.out.println("Uppercase:          " + city.toUpperCase());
+        System.out.println("Lowercase:          " + city.toLowerCase());
+        System.out.println("# of characters:    " + city.length());
+        System.out.println("First character:    " + city.charAt(0));
     }
 }
 
