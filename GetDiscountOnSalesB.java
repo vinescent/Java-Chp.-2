@@ -33,11 +33,11 @@ public class GetDiscountOnSalesB {
     }
 }
 
-/* Output ($1000 purchase):
-Enter the amount of the purchase: 1000
-The purchase amount is: $1000.0
-The discount is:       $50.0
-The final price is:   $950.0
+/* Output ($1400 purchase):
+Enter the amount of the purchase: 1400
+The purchase amount is: $1400.0
+The discount is:       $70.0
+The final price is:   $1330.0
 
 Output ($1500 purchase):
 Enter the amount of the purchase: 1500
@@ -45,9 +45,9 @@ The purchase amount is: $1500.0
 The discount is:       $75.0
 The final price is:   $1425.0
 
-Output ($2000 purchase):
-Enter the amount of the purchase: 2000
-The purchase amount is: $2000.0
-The discount is:       $200.0
-The final price is:   $1800.0
+Output ($1600 purchase):
+Enter the amount of the purchase: 1600
+The purchase amount is: $1600.0
+The discount is:       $160.0
+The final price is:   $1440.0
 */
